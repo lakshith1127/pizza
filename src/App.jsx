@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import "../App.css";
+
 function App() {
   const [size, setSize] = useState("medium");
   const [topping, setToppings] = useState([]);
